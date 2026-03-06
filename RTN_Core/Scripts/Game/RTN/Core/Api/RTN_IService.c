@@ -1,0 +1,3 @@
+class RTN_IService
+{
+}

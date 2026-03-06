@@ -1,0 +1,68 @@
+Folder PATH listing
+Volume serial number is EE27-AC81
+C:.
+¦   addon.gproj
+¦   folder_structure.txt
+¦   resourceDatabase.rdb
+¦   UserMaps.desc
+¦   
++---Scripts
+    +---Game
+        +---RTN
+            +---Core
+                ¦   RTN_Core.c
+                ¦   RTN_CoreVersion.c
+                ¦   
+                +---Api
+                ¦       RTN_CoreApi.c
+                ¦       RTN_IService.c
+                ¦       RTN_ServiceRegistry.c
+                ¦       
+                +---Bootstrap
+                ¦       RTN_Bootstrap.c
+                ¦       RTN_GameHooks.c
+                ¦       
+                +---Config
+                ¦       RTN_ConfigPaths.c
+                ¦       RTN_CoreConfig.c
+                ¦       RTN_CoreConfigData.c
+                ¦       RTN_ModuleConfigBase.c
+                ¦       
+                +---Events
+                ¦   ¦   RTN_CoreEvents.c
+                ¦   ¦   RTN_EventBase.c
+                ¦   ¦   RTN_EventBus.c
+                ¦   ¦   RTN_IEventListener.c
+                ¦   ¦   
+                ¦   +---Core
+                ¦           RTN_EventClientStarted.c
+                ¦           RTN_EventCoreInitialized.c
+                ¦           RTN_EventServerStarted.c
+                ¦           
+                +---Logging
+                ¦       RTN_Logger.c
+                ¦       RTN_LogLevel.c
+                ¦       
+                +---Modules
+                ¦       RTN_IModule.c
+                ¦       RTN_ModuleRegistry.c
+                ¦       
+                +---Net
+                ¦       RTN_NetUtils.c
+                ¦       RTN_RpcIds.c
+                ¦       RTN_RpcRouter.c
+                ¦       
+                +---Permissions
+                ¦       RTN_PermissionService.c
+                ¦       RTN_Role.c
+                ¦       
+                +---Persistence
+                ¦       RTN_Serializer.c
+                ¦       RTN_Storage.c
+                ¦       
+                +---Utils
+                        RTN_Assert.c
+                        RTN_Collections.c
+                        RTN_Strings.c
+                        RTN_Time.c
+                        
