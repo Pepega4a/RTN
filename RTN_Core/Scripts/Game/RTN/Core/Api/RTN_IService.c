@@ -1,3 +1,0 @@
-class RTN_IService
-{
-}
